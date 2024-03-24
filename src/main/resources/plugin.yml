@@ -1,0 +1,8 @@
+main: com.gmail.markushygedombrowski.HLSpawn
+name: HLSpawn
+version: "1.0"
+author: Markus Hyge dombrowski
+depend: [Combat, HLWarp]
+commands:
+  spawn:
+    description: "Teleport to the spawn"
